@@ -1,0 +1,4 @@
+MIRROR dfghdfh
+CALC 5+9 
+TIME 
+END

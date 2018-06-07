@@ -1,0 +1,93 @@
+generating using sys functions f2.txt
+   number of blocks: 1000, size of block: 4096
+   Real Time: 8, User Time: 7, System Time: 0
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 779, User Time: 659, System Time: 54
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 717, User Time: 686, System Time: 31
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 729, User Time: 664, System Time: 55
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 723, User Time: 677, System Time: 37
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 770, User Time: 722, System Time: 46
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 661, User Time: 629, System Time: 30
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 697, User Time: 650, System Time: 26
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 722, User Time: 651, System Time: 26
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 688, User Time: 658, System Time: 30
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 666, User Time: 638, System Time: 27
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 782, User Time: 693, System Time: 41
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 712, User Time: 669, System Time: 27
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 715, User Time: 674, System Time: 33
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 708, User Time: 655, System Time: 34
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 699, User Time: 666, System Time: 32
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 715, User Time: 673, System Time: 25
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 706, User Time: 659, System Time: 32
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 721, User Time: 657, System Time: 31
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 685, User Time: 654, System Time: 30
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 679, User Time: 650, System Time: 28
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 765, User Time: 701, System Time: 34
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 701, User Time: 669, System Time: 31
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 729, User Time: 672, System Time: 34
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 768, User Time: 705, System Time: 41
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 733, User Time: 674, System Time: 32
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 741, User Time: 678, System Time: 29
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 699, User Time: 656, System Time: 28
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 742, User Time: 701, System Time: 37
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 810, User Time: 700, System Time: 38
+generating using sys functions f2.txt
+   number of blocks: 100000, size of block: 4096
+   Real Time: 710, User Time: 673, System Time: 36

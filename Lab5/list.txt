@@ -1,0 +1,4 @@
+ps -aux | last -2
+sdafgsdfgdf
+ls -l || head -5 | last -2 
+./readLine | ./readLine | ./readLine

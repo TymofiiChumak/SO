@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "wait.h": "c",
+        "ipc.h": "c",
+        "cerrno": "c"
+    }
+}

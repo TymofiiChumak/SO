@@ -1,0 +1,4 @@
+CALC 25 / 96
+MIRROR alasdgsdfg
+TIME
+CALC 78 * 96

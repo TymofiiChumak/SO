@@ -1,0 +1,49 @@
+Image width: 800 height: 800
+Filter size: 5
+Thread number: 1
+Time: 0.130643984
+Image width: 800 height: 800
+Filter size: 5
+Thread number: 2
+Time: 0.095891099
+Image width: 800 height: 800
+Filter size: 5
+Thread number: 4
+Time: 0.065135927
+Image width: 800 height: 800
+Filter size: 5
+Thread number: 8
+Time: 0.064307247
+Image width: 800 height: 800
+Filter size: 15
+Thread number: 1
+Time: 1.035168284
+Image width: 800 height: 800
+Filter size: 15
+Thread number: 2
+Time: 2.569041176
+Image width: 800 height: 800
+Filter size: 15
+Thread number: 4
+Time: 2.547263772
+Image width: 800 height: 800
+Filter size: 15
+Thread number: 8
+Time: 0.548865930
+Image width: 800 height: 800
+Filter size: 45
+Thread number: 1
+Time: 8.696951869
+Image width: 800 height: 800
+Filter size: 45
+Thread number: 2
+Time: 6.666173025
+Image width: 800 height: 800
+Filter size: 45
+Thread number: 4
+Time: 6.911157472
+Image width: 800 height: 800
+Filter size: 45
+Thread number: 8
+Time: 6.957570877
+

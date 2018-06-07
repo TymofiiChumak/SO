@@ -1,0 +1,39 @@
+generating using sys functions f1.txt
+   number of blocks: 100000, size of block: 8192
+   Real Time: 1146, User Time: 1062, System Time: 53
+Copying from f1.txt to f2.txt using sys functions
+   number of blocks: 100000, size of block: 8192
+   Real Time: 665, User Time: 1, System Time: 86
+Sorting f1.txt using sys functions
+   number of blocks: 100000, size of block: 8192
+   Real Time: 135, User Time: 17, System Time: 117
+Sorting f2.txt using lib functions
+   number of blocks: 100000, size of block: 8192
+   Real Time: 189, User Time: 30, System Time: 158
+
+
+   
+generating using sys functions f1.txt
+   number of blocks: 5, size of block: 5
+   Real Time: 0, User Time: 0, System Time: 0
+Sorting f1.txt using sys functions
+   number of blocks: 5, size of block: 5
+   Real Time: 0, User Time: 0, System Time: 0
+generating using sys functions f1.txt
+   number of blocks: 5, size of block: 5
+   Real Time: 0, User Time: 0, System Time: 0
+Sorting f1.txt using sys functions
+   number of blocks: 5, size of block: 5
+   Real Time: 0, User Time: 0, System Time: 0
+Sorting f1.txt using lib functions
+   number of blocks: 5, size of block: 5
+   Real Time: 0, User Time: 0, System Time: 0
+generating using sys functions f1.txt
+   number of blocks: 5, size of block: 5
+   Real Time: 0, User Time: 0, System Time: 0
+Sorting f1.txt using lib functions
+   number of blocks: 5, size of block: 5
+   Real Time: 0, User Time: 0, System Time: 0
+generating using lib functions f1.txt
+   number of blocks: 1000, size of block: 4096
+   Real Time: 10, User Time: 9, System Time: 0

@@ -1,0 +1,3 @@
+/home/tymofii/workspace/so/lab2/CMakeFiles/rebuild_cache.dir
+/home/tymofii/workspace/so/lab2/CMakeFiles/second.dir
+/home/tymofii/workspace/so/lab2/CMakeFiles/edit_cache.dir

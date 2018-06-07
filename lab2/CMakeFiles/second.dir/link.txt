@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/second.dir/2-1.c.o  -o second 
