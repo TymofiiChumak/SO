@@ -1,0 +1,6 @@
+local 3
+inet 4
+Address: 127.0.0.1
+End init
+ Ready to connect with clients
+received interrupt signal
